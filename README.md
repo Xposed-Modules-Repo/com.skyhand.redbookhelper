@@ -45,7 +45,7 @@
 
 # 下载/Download
 
-Github: https://github.com/Xposed-Modules-Repo/com.skyhand.sinahelper/releases
+Github: https://github.com/Xposed-Modules-Repo/com.skyhand.redbookhelper/releases
 
 
 # 使用方法/Used
